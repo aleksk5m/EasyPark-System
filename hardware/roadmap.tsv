@@ -1,0 +1,26 @@
+Task	Start Date	End Date	Status	Phase
+Bill of Materials	2026-05-21	2026-05-21	To Do	Planning
+Project Roadmap TSV Upload	2026-05-21	2026-05-21	To Do	Planning
+Choose Sensor/Effector	2026-05-21	2026-05-21	To Do	Planning
+KiCad PCB Design	2026-05-28	2026-05-28	To Do	PCB Design
+Generate Gerber Files	2026-05-28	2026-05-28	To Do	PCB Design
+BJT Switch Circuit	2026-05-28	2026-05-28	To Do	Circuit Design
+3D Printing Design	2026-06-04	2026-06-04	To Do	Mechanical Design
+OpenSCAD Modeling	2026-06-04	2026-06-04	To Do	Mechanical Design
+Laser Cutting Design	2026-06-04	2026-06-04	To Do	Mechanical Design
+Library 3D Printing Session	2026-06-06	2026-06-06	To Do	Mechanical Design
+Solder Resistors	2026-06-11	2026-06-11	To Do	Assembly
+Solder Vias	2026-06-18	2026-06-18	To Do	Assembly
+Build Enclosure	2026-06-25	2026-06-25	To Do	Assembly
+Solder LED and BJT	2026-06-25	2026-06-25	To Do	Assembly
+Hardware Assembly	2026-06-25	2026-06-25	To Do	Assembly
+Parts Arrival	2026-07-01	2026-07-01	To Do	Logistics
+Firmware Coding	2026-07-09	2026-07-09	To Do	Programming
+Solder Connectors	2026-07-09	2026-07-09	To Do	Assembly
+PCB Testing	2026-07-16	2026-07-16	To Do	Testing
+PCB Assembly	2026-07-16	2026-07-16	To Do	Testing
+Presentation Slides	2026-07-23	2026-07-23	To Do	Presentation
+Troubleshooting	2026-07-30	2026-07-30	To Do	Debugging
+Hardware Demonstration	2026-08-06	2026-08-06	To Do	Final Demo
+Final Oral Presentation	2026-08-13	2026-08-13	To Do	Presentation
+Build Instructions Report	2026-08-20	2026-08-20	To Do	Documentation
